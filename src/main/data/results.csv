@@ -1,0 +1,10 @@
+File;Vertices;Edges;SCC_Count;Topo_Size;Relax;DFS_Visits;DFS_Edges;Push;Pop;Time_ms
+large_dense.json;45;18;45;45;9;45;18;45;45;3,873
+large_medium.json;35;18;35;35;7;35;18;35;35;0,152
+large_sparse.json;25;12;25;25;3;25;12;25;25;0,117
+medium_dense.json;15;16;15;15;16;15;16;15;15;0,097
+medium_multi_scc.json;18;14;12;9;0;18;14;9;9;0,089
+medium_sparse.json;12;9;10;9;3;12;9;9;9;0,059
+small_dense_dag.json;8;11;8;8;7;8;11;8;8;0,051
+small_mixed.json;9;8;5;3;0;9;8;3;3;0,066
+small_sparse_cycle.json;6;5;4;3;0;6;5;3;3;0,038
